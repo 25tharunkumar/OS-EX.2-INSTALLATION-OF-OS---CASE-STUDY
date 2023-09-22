@@ -1,10 +1,10 @@
 # OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
 
-AIM:
+## AIM:
 
 To Install the OS in the computer system
 
-MATERIALS REQUIRED:
+## MATERIALS REQUIRED:
 
 1.Operating System Installation Media
 
@@ -18,7 +18,9 @@ MATERIALS REQUIRED:
 
 6.User Account Information
 
-PROCEDURE: Install Virtualbox Step 1: To download Virtualbox
+## PROCEDURE: 
+```
+Install Virtualbox Step 1: To download Virtualbox
 
 image
 
@@ -65,5 +67,5 @@ image
 Step 5: Start Kali OS. The default username is root and the password is root.
 
 image
-
+```
 RESULT: The Os is successfully installed using virtual box in computer system.
